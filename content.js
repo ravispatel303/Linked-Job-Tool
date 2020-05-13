@@ -2,7 +2,7 @@
 /**
  * Add your Analytics tracking ID here.
  */
-var _AnalyticsCode = 'UA-166033710-1';
+var _AnalyticsCode = 'UA-XXXXXXXXX-X';
 
 /**
  * Below is a modified version of the Google Analytics asynchronous tracking
