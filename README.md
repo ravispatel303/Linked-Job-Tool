@@ -30,7 +30,7 @@ Follow these steps:
 - If it still doesn't work then refresh the page
 
     
-Note: This tool guides job seekers to find a job easily but never guarantees. This is not the LinkedIn Official tool. This tool is specific to LinkedIn Jobs.
+Note: This tool is specific to LinkedIn Jobs.
 
 
 Tutorial Video: https://youtu.be/ZOD0gqqpQvE
